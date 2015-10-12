@@ -5,7 +5,7 @@ The fastest way to contact me is by email.
 
 Please send an email to
 
-peterburk@gmail.com
+[peterburk@gmail.com](mailto:peterburk@gmail.com)
 
 and I’ll reply as soon as possible!
 
